@@ -62,8 +62,7 @@ Assistant	        -        Alexa, Google Assistant
 🧠 Smart memory for conversation flow
 
 
-📽️ Demo -
-https://drive.google.com/file/d/1in3GXM8tckc7dOrEQdOHrM85KnahBEne/view?usp=drive_link
+📽️ Demo - https://drive.google.com/file/d/11qzxyyBV9EVswlaOVxhL7Sc77Jomm84F/view?usp=drive_link
 
 
 🏁 Conclusion:
