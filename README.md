@@ -11,7 +11,6 @@ NyayGURU is an AI-driven legal reasoning system developed as a final year projec
 Guide: Prof. Sanjay Malode Sir 
 
 🧩 Problem Statement:
-
 Legal information is often complex, inaccessible, and costly for ordinary citizens. NyayGURU bridges this gap by offering:
 AI-based legal Q&A
 Document summarization and key clause extraction
@@ -19,7 +18,6 @@ Voice command support
 Multilingual access
 
 🚀 Key Features:
-
 🔍 AI-Powered Search using Meta LLaMA 3 + LangChain
 ⚡ Real-time Response with vector database (FAISS)
 🧠 Memory-Powered Chatbot for contextual conversation
@@ -28,7 +26,6 @@ Multilingual access
 📚 Organized Legal Categories: Know Your Rights, Cyber Law, Criminal Law, Property Law, Consumer Law
 
 🛠️ Tech Stack:
-
 Component               	Technology
 LLM	                      Meta LLaMA 3
 Framework               	LangChain
@@ -37,13 +34,11 @@ API	                      Groq
 Assistant	                Alexa, Google Assistant
 
 💡 Use Cases:
-
 🧾 Small Businesses – Get instant legal guidance
 👩‍⚖️ Lawyers – Faster case research
 🫂 Citizens – Know your rights in regional languages
 
 🌟 Competitive Edge:
-
 ✅ 15% more accurate answers (LLaMA 3 fine-tuning)
 💰 Cost-effective subscription model
 🧠 Smart memory for conversation flow
