@@ -1,11 +1,11 @@
 (My final year Team project)
 
-✨NyayGURU – AI-Powered Legal Assistant 🧠⚖️
+# ✨NyayGURU – AI-Powered Legal Assistant 🧠⚖️
 
 NyayGURU is an AI-driven legal reasoning system developed as a final year project at KDK College of Engineering, Nagpur. It is designed to make legal knowledge accessible, simple, and multilingual – with 24/7 support powered by advanced language models.
 
 
-🧩 Problem Statement:
+## 🧩 Problem Statement:
 
 Legal information is often complex, inaccessible, and costly for ordinary citizens. NyayGURU bridges this gap by offering:
 AI-based legal Q&A
@@ -14,7 +14,7 @@ Voice command support
 Multilingual access
 
 
-🚀 Key Features:
+## 🚀 Key Features:
 
 🔍 AI-Powered Search using Meta LLaMA 3 + LangChain
 
@@ -29,7 +29,7 @@ Multilingual access
 📚 Organized Legal Categories: Know Your Rights, Cyber Law, Criminal Law, Property Law, Consumer Law
 
 
-🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 
 Component         -        Technology
 
@@ -44,7 +44,7 @@ API	              -        Groq
 Assistant	        -        Alexa, Google Assistant
 
 
-💡 Use Cases:
+## 💡 Use Cases:
 
 🧾 Small Businesses – Get instant legal guidance
 
@@ -53,7 +53,7 @@ Assistant	        -        Alexa, Google Assistant
 🫂 Citizens – Know your rights in regional languages
 
 
-🌟 Competitive Edge:
+## 🌟 Competitive Edge:
 
 ✅ 15% more accurate answers (LLaMA 3 fine-tuning)
 
@@ -62,10 +62,10 @@ Assistant	        -        Alexa, Google Assistant
 🧠 Smart memory for conversation flow
 
 
-📽️ Demo - https://drive.google.com/file/d/11qzxyyBV9EVswlaOVxhL7Sc77Jomm84F/view?usp=drive_link
+## 📽️ Demo - https://drive.google.com/file/d/11qzxyyBV9EVswlaOVxhL7Sc77Jomm84F/view?usp=drive_link
 
 
-🏁 Conclusion:
+## 🏁 Conclusion:
 
 NyayGURU is not just a chatbot – it's a legal companion for the people, by the people, powered by the future of AI.
 
